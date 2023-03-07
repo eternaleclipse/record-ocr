@@ -1,0 +1,4 @@
+tesserocr
+numpy
+Pillow
+mss
